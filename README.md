@@ -1,3 +1,6 @@
+### plz star  if you feel good
+### it's help me a lot
+### thank you
 ## Update 
 ### Vedio.py oop
 
@@ -10,3 +13,4 @@ it's same with [yolov3-pytorch](https://github.com/eriklindernoren/PyTorch-YOLOv
 and it's use pytorch .pth model
 u can set model and vedio path in parser
 run vedio_ to detect vedio
+
